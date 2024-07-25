@@ -1,0 +1,10 @@
+{
+  "name": "exo_escapegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "private": true
+}
